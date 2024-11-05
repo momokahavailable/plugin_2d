@@ -2,7 +2,7 @@
 
 A new Flutter project.
 # Hasil
-![screenshot]('assets/spek.png')
+![screenshot](assets/spek.png)
 
 ## Getting Started
 
